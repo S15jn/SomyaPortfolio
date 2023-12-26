@@ -55,7 +55,8 @@
     padding: 0px 14px;
     text-align: center;
     font-size: 18px;
-    background: linear-gradient(rgba(0,0,0,0.5),#000039);
+    background: linear-gradient(rgba(0,0,0,0.5),#272747);
+
 }
 .layer h3{
     font-weight: 900;
